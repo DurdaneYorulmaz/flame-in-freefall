@@ -27,5 +27,26 @@ This platform allows researchers, engineers, and space enthusiasts to easily exp
 * *Backend & Data Processing:* Python, Flask, Pandas, NumPy
 * *Data Source:* NASA Physical Sciences Informatics (PSI) Database
 * *Frontend & Visualization:* HTML5, CSS3, JavaScript, Chart.js / Plotly
-* *Development Tools:* Google Colab & GitHub
+* *Development Tools:* Google Colab, Google Drive & GitHub
 
+---
+
+## 📂 Required Files & Datasets
+
+Before running the project, please make sure you have all the necessary files:
+
+1. *Core Project Files (6 Files):* All 6 main project files are uploaded directly to this repository. Download these 6 files into the same project folder on your computer.
+2. *Experimental Datasets (75 Excel Files):* Due to file size limits, the 75 NASA PSI Excel datasets are stored on Google Drive. You can download the complete dataset folder using the link below:
+   * 👉 *[Download 75 Excel Datasets from Google Drive](https://drive.google.com/drive/u/0/folders/1xipvwIipuFZkld-M6xa5a0lfJuJu1X1I)*
+   * After downloading, place the Excel files into the same directory (or designated data folder) alongside the 6 core files.
+
+---
+
+## 🚀 Installation & Setup
+
+Follow these steps to run the project on your local machine:
+
+1. *Download the 6 core files* directly from this GitHub repository and the *75 Excel datasets* from the Google Drive link above.
+2. *Install the required packages:*
+   ```bash
+   pip install -r requirements.txt
