@@ -29,13 +29,3 @@ This platform allows researchers, engineers, and space enthusiasts to easily exp
 * *Frontend & Visualization:* HTML5, CSS3, JavaScript, Chart.js / Plotly
 * *Development Tools:* Google Colab & GitHub
 
----
-
-## 🚀 Installation & Setup
-
-Follow these steps to run the project on your local machine:
-
-1. *Clone the repository:*
-   ```bash
-   git clone [https://github.com/username/flame-in-freefall.git](https://github.com/username/flame-in-freefall.git)
-   cd flame-in-freefall
